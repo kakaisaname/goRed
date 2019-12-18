@@ -1,4 +1,4 @@
-module goRed
+module github.com/kakaisaname/goRed
 
 go 1.12
 
