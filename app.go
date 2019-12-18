@@ -2,12 +2,12 @@ package main
 
 import (
 	_ "github.com/kakaisaname/account/core/accounts"
+	"github.com/kakaisaname/goRed/apis/gorpc"
+	_ "github.com/kakaisaname/goRed/apis/web"
+	_ "github.com/kakaisaname/goRed/core/envelopes"
+	"github.com/kakaisaname/goRed/jobs"
 	"github.com/kakaisaname/infra"
 	"github.com/kakaisaname/infra/base"
-	"goRed/apis/gorpc"
-	_ "goRed/apis/web"
-	_ "goRed/core/envelopes"
-	"goRed/jobs"
 )
 
 //注册我们的starter  启动器
