@@ -1,10 +1,10 @@
 package envelopes
 
 import (
+	"github.com/kakaisaname/goRed/services"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	. "github.com/smartystreets/goconvey/convey"
-	"goRed/services"
 	_ "goRed/testx"
 	"testing"
 )

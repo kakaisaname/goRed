@@ -1,6 +1,7 @@
 package test
 
 import (
+	"github.com/kakaisaname/goRed/services"
 	"github.com/kakaisaname/infra/gorpc"
 	"github.com/kakaisaname/infra/lb"
 	"github.com/shopspring/decimal"
@@ -8,7 +9,6 @@ import (
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tietang/go-eureka-client/eureka"
 	"github.com/tietang/props/ini"
-	"goRed/services"
 	"testing"
 )
 

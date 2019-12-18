@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"goRed/services"
+	"github.com/kakaisaname/goRed/services"
 )
 
 func main() {

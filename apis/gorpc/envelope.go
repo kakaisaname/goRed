@@ -1,7 +1,7 @@
 package gorpc
 
 import (
-	"goRed/services"
+	"github.com/kakaisaname/goRed/services"
 )
 
 type EnvelopeRpc struct {

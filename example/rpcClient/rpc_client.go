@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"github.com/kakaisaname/infra/lb"
-	"goRed/services"
+	"github.com/kakaisaname/goRed/services"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
 	"net/rpc"
