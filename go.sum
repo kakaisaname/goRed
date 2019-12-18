@@ -121,8 +121,6 @@ github.com/juju/testing v0.0.0-20180920084828-472a3e8b2073/go.mod h1:63prj8cnj0t
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 h1:uC1QfSlInpQF+M0ao65imhwqKnz3Q2z/d8PWZRMQvDM=
 github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88/go.mod h1:3w7q1U84EfirKl04SVQ/s7nPm1ZPhiXd34z40TNz36k=
-github.com/kakaisaname/account v1.2.3 h1:Qb6yv1vHiZg/it2kMtuSI0CAd0X0/F4taUtvzfDK76A=
-github.com/kakaisaname/account v1.2.3/go.mod h1:VCco6P3g7NelxVBJtWsLSGpfNf0RV+Y8b8aZ1BpBlqo=
 github.com/kakaisaname/account v1.2.4 h1:G9XSgN1xXs+TfvrLWScdXZLXJumAX+1wvHjogEd/iFM=
 github.com/kakaisaname/account v1.2.4/go.mod h1:VCco6P3g7NelxVBJtWsLSGpfNf0RV+Y8b8aZ1BpBlqo=
 github.com/kakaisaname/infra v0.1.0 h1:RHqAmQkhe4YCXTBhWTbzTJFeQLEVl4V9z6N5QvRHk1Q=
